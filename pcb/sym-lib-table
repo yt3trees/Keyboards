@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name corne-cherry-cache)(type Legacy)(uri "C:/work/QMK Configurator/keyboard layout editor/Kikad/crkbd-master/corne-cherry/pcb/corne-cherry-cache.lib")(options "")(descr ""))
+  (lib (name limb44-rescue)(type Legacy)(uri ${KIPRJMOD}/limb44-rescue.lib)(options "")(descr ""))
+)
