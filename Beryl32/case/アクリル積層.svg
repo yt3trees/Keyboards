@@ -18,6 +18,16 @@
      id="defs2040">
     <inkscape:path-effect
        effect="spiro"
+       id="path-effect3514"
+       is_visible="true"
+       lpeversion="1" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect3510"
+       is_visible="true"
+       lpeversion="1" />
+    <inkscape:path-effect
+       effect="spiro"
        id="path-effect5745"
        is_visible="true"
        lpeversion="1" />
@@ -8649,11 +8659,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.4142136"
-     inkscape:cx="1139.0865"
-     inkscape:cy="336.31658"
+     inkscape:zoom="1"
+     inkscape:cx="1142.7631"
+     inkscape:cy="321.77237"
      inkscape:document-units="mm"
-     inkscape:current-layer="g3779"
+     inkscape:current-layer="g4862"
      inkscape:document-rotation="0"
      showgrid="false"
      inkscape:window-width="2880"
@@ -11526,7 +11536,7 @@
      inkscape:groupmode="layer"
      id="layer3"
      inkscape:label="アタリ"
-     style="display:inline"
+     style="display:none"
      sodipodi:insensitive="true">
     <path
        id="path2717-4"
@@ -11872,6 +11882,17 @@
        id="path5447"
        inkscape:path-effect="#path-effect5449"
        inkscape:original-d="m 295.75805,143.3833 c 10.92581,2.6e-4 21.85132,2.6e-4 32.77658,1e-5" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.0638px;line-height:1.25;font-family:'Solid Edge ANSI';-inkscape-font-specification:'Solid Edge ANSI';fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="284.965"
+       y="127.03183"
+       id="text3505"><tspan
+         sodipodi:role="line"
+         id="tspan3503"
+         x="284.965"
+         y="127.03183"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Solid Edge ANSI';-inkscape-font-specification:'Solid Edge ANSI';stroke-width:0.264583">Beryl32</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
@@ -12413,7 +12434,7 @@
      inkscape:groupmode="layer"
      id="g5661"
      inkscape:label="ミドルレイヤー&amp;ボトムレイヤー コピー"
-     style="display:inline">
+     style="display:none">
     <path
        id="path5515"
        style="fill:none;fill-opacity:1;stroke:#ff0000;stroke-width:0.352777;stroke-linecap:butt;stroke-miterlimit:3.76316;stroke-dasharray:none;stroke-opacity:1"
@@ -12791,7 +12812,7 @@
        inkscape:path-effect="#path-effect5727"
        inkscape:original-d="m 267.37491,135.37915 c 9.40988,0.84997 18.82002,1.69967 28.23041,2.54911" />
     <path
-       style="fill:none;stroke:#ff0000;stroke-width:0.352777;stroke-miterlimit:3.76315999;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:none;stroke:#ff0000;stroke-width:0.352777;stroke-miterlimit:3.76316;stroke-dasharray:none;stroke-opacity:1"
        d="m 295.60533,137.92826 33.08204,1e-5"
        id="path5659"
        inkscape:path-effect="#path-effect5729"
@@ -12825,7 +12846,7 @@
      inkscape:groupmode="layer"
      id="g3766"
      inkscape:label="マウントプレート"
-     style="display:inline">
+     style="display:none">
     <path
        id="path3670"
        style="display:inline;fill:none;stroke:#ff0000;stroke-width:0.352777;stroke-linecap:butt;stroke-miterlimit:3.76316;stroke-dasharray:none;stroke-opacity:1"
@@ -13136,7 +13157,7 @@
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="トップカバー"
-     style="display:inline">
+     style="display:none">
     <path
        id="path3153"
        style="fill:none;fill-opacity:1;stroke:#ff0000;stroke-width:0.352777;stroke-linecap:butt;stroke-miterlimit:3.76316;stroke-dasharray:none;stroke-opacity:1"
